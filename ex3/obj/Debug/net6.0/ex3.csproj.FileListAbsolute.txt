@@ -1,0 +1,15 @@
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\bin\Debug\net6.0\ex3.exe
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\bin\Debug\net6.0\ex3.dll
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\bin\Debug\net6.0\ex3.pdb
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.dll
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.pdb
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\Users\Newet\Desktop\GB атестация\С sharp\ex3\obj\Debug\net6.0\ref\ex3.dll
